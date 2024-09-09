@@ -434,7 +434,6 @@
     <Compile Include="Exchanges\Bitmex\BitmexIncDataProvider.cs" />
     <Compile Include="Exchanges\Bitmex\BitmexTicker.cs" />
     <Compile Include="Exchanges\Bittrex\BittrexAccountBalanceInfo.cs" />
-    <Compile Include="Exchanges\Bittrex\BittrexIncUpdateDataProvider.cs.cs" />
     <Compile Include="Exchanges\Bittrex\BittrexExchange.cs" />
     <Compile Include="Exchanges\Bittrex\BittrexOrderInfo.cs" />
     <Compile Include="Exchanges\Bittrex\BittrexTicker.cs" />
@@ -453,7 +452,6 @@
     <Compile Include="Strategies\Custom\CustomTickerStrategyBase.cs" />
     <Compile Include="Strategies\Custom\HipeBasedStrategy.cs" />
     <Compile Include="Strategies\Custom\TaSimpleStrategy.cs" />
-    <Compile Include="Strategies\Custom\WalletInvestorForecastStrategy.cs" />
     <Compile Include="Strategies\Grid\BaseGridStrategy.cs" />
     <Compile Include="Strategies\IStrategyDataProvider.cs" />
     <Compile Include="Strategies\Grid\StaticGridStrategy.cs" />
@@ -474,8 +472,6 @@
     <Compile Include="Strategies\StrategyValidationError.cs" />
     <Compile Include="Strategies\Stupid\MarketMakingStrategy.cs" />
     <Compile Include="Strategies\Stupid\SimpleBuyLowSellHighStrategy.cs" />
-    <Compile Include="Tests\ChainArrayTests.cs" />
-    <Compile Include="Tests\CycleArrayTests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />

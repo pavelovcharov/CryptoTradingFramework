@@ -51,6 +51,7 @@
     </ItemGroup>
 
     <ItemGroup>
+      <ProjectReference Include="..\..\..\..\XmlSerialization\XmlSerialization\XmlSerialization.Core.csproj" />
       <ProjectReference Include="..\..\..\Crypto.Core\Crypto.Net.Core.csproj" />
       <ProjectReference Include="..\..\..\Crypto.UI.Avalonia\Crypto.UI.Avalonia.csproj" />
     </ItemGroup>

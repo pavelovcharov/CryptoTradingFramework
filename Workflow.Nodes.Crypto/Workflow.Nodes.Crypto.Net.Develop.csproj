@@ -4,6 +4,7 @@
         <TargetFramework>net8.0</TargetFramework>
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>disable</Nullable>
+        <GenerateAssemblyInfo>false</GenerateAssemblyInfo>
     </PropertyGroup>
 
     <ItemGroup>
@@ -19,12 +20,14 @@
     </ItemGroup>
 
     <ItemGroup>
-      <ProjectReference Include="..\..\..\WorkflowDiagram\WorkflowDiagram.Nodes.Base\WorkflowDiagram.Nodes.Base.Core.Develop.csproj" />
+      <ProjectReference Include="..\..\WorkflowDiagram\WorkflowDiagram.Nodes.Base\WorkflowDiagram.Nodes.Base.Core.Develop.csproj" />
+      <ProjectReference Include="..\..\WorkflowDiagram\WorkflowDiagram\WorkflowDiagram.Core.Develop.csproj" />
       <ProjectReference Include="..\Crypto.Core\Crypto.Net.Core.csproj" />
     </ItemGroup>
 
     <ItemGroup>
       <PackageReference Include="MathNet.Numerics" Version="5.0.0" />
+      <PackageReference Include="Microsoft.CodeAnalysis.Scripting.Common" Version="4.3.0" />
     </ItemGroup>
 
 </Project>

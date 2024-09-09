@@ -6,13 +6,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypto.Net.Core", "..\..\Cr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypto.LowCodeStrategies.Net", "..\..\Crypto.Strategies\Crypto.LowCodeStrategies.Net.csproj", "{6DD84360-56EE-45DC-8708-0DCB420DD684}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkflowDiagram.Nodes.Base.Core.Develop", "..\..\..\..\WorkflowDiagram\WorkflowDiagram.Nodes.Base\WorkflowDiagram.Nodes.Base.Core.Develop.csproj", "{8E92CEF8-07A0-430B-B150-155706ACC60B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkflowDiagram.Nodes.Base.Core.Develop", "..\..\..\WorkflowDiagram\WorkflowDiagram.Nodes.Base\WorkflowDiagram.Nodes.Base.Core.Develop.csproj", "{8E92CEF8-07A0-430B-B150-155706ACC60B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlSerialization.Core", "..\..\..\..\XmlSerialization\XmlSerialization\XmlSerialization.Core.csproj", "{960D364C-9E8F-44E7-BF05-FF6C2596C072}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XmlSerialization.Core", "..\..\..\XmlSerialization\XmlSerialization\XmlSerialization.Core.csproj", "{960D364C-9E8F-44E7-BF05-FF6C2596C072}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Crypto.Core.Tests", "..\..\Crypto.Core.Tests\Crypto.Core.Tests.csproj", "{A024F34B-90BD-4651-9BA4-9C08F0D15FD5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkflowDiagram.Core.Develop", "..\..\..\..\WorkflowDiagram\WorkflowDiagram\WorkflowDiagram.Core.Develop.csproj", "{31C74150-34BD-44E7-A93C-DDD469C2F93A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkflowDiagram.Core.Develop", "..\..\..\WorkflowDiagram\WorkflowDiagram\WorkflowDiagram.Core.Develop.csproj", "{31C74150-34BD-44E7-A93C-DDD469C2F93A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Workflow.Nodes.Crypto.Net.Develop", "..\..\Workflow.Nodes.Crypto\Workflow.Nodes.Crypto.Net.Develop.csproj", "{A491977F-88CC-4B46-80CE-ADB10C5F86C0}"
 EndProject
