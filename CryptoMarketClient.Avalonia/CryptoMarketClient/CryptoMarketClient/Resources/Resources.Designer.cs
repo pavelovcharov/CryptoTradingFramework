@@ -141,6 +141,15 @@ namespace CryptoMarketClient.Resources {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to Strategies.
+        /// </summary>
+        public static string Item_Strategies {
+            get {
+                return ResourceManager.GetString("Item_Strategies", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized string similar to Description.
         /// </summary>
         public static string LogView_Column_Description {

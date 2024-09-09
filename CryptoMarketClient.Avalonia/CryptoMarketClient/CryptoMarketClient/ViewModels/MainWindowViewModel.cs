@@ -52,6 +52,12 @@ public partial class MainWindowViewModel : ViewModelBase
         
         mmv.Items.Add(evm);
 
+        ToolbarButtonItemViewModel strategies = new ToolbarButtonItemViewModel
+        {
+            Header = Resources.Resources.Item_Strategies,
+        };
+        mmv.Items.Add(strategies);
+
         ToolbarButtonItemViewModel keys = new ToolbarButtonItemViewModel()
         {
             Header = Resources.Resources.Item_ApiKeys,

@@ -56,4 +56,7 @@
     <data name="Column_Time" xml:space="preserve">
         <value>Время</value>
     </data>
+    <data name="Item_Strategies" xml:space="preserve">
+        <value>Стратегии</value>
+    </data>
 </root>
