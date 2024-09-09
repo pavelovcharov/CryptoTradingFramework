@@ -63,4 +63,7 @@
     <data name="Column_Time" xml:space="preserve">
         <value>Time</value>
     </data>
+    <data name="Item_Strategies" xml:space="preserve">
+        <value>Strategies</value>
+    </data>
 </root>
