@@ -361,6 +361,10 @@ namespace Crypto.UI.CustomControls {
         }
         protected override object SenderCore => OwnerInfo.Item;
         protected override object GetContainerCore() => DevExpress.Utils.Html.Internal.DxHtmlBinderHelper.FindContainer(OwnerControl);
+        public override bool GetRightToLeft()
+        {
+            return false;
+        }
 
         protected override DxHtmlElementMouseEventArgs CreateMouseEventArgs(DxHtmlHitInfo hitInfo, MouseEventArgs e) {
             return new HtmlContentEditElementEventArgs(hitInfo, e, OwnerInfo);

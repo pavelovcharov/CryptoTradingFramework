@@ -14,6 +14,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using DevExpress.XtraCharts.Native;
 
 namespace CryptoMarketClient {
     public partial class ExchangeMarketCapacityForm : XtraForm {
@@ -46,7 +47,7 @@ namespace CryptoMarketClient {
 
             List<string> paletteNames = DevExpress.XtraTreeMap.Palettes.GetNames();
             foreach(string palette in paletteNames) {
-                Image img = PaletteUtils.CreateEditorImage(DevExpress.XtraTreeMap.Palettes.GetPalette(palette), 6);
+                Image img = PaletteUtils.CreateEditorImage(DevExpress.XtraCharts.Palettes.GetPalette(palette), 6);
                 CheckBarItem cbiPaletteName = new CheckBarItem(barManager1, palette, cbiPaletteName_Click);
                 cbiPaletteName.Glyph = img;
                 bsi.ItemLinks.Add(cbiPaletteName);

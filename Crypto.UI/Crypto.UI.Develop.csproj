@@ -84,105 +84,105 @@
       <HintPath>..\packages\cs-moea.1.0.2\lib\net452\Release\cs-statistics.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Charts.v22.2.Core, Version=22.2.3.0 ">
+    <Reference Include="DevExpress.Charts.v24.1.Core, Version=24.1.5.0 ">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Data.v22.2, Version=22.2.3.0 ">
+    <Reference Include="DevExpress.Data.v24.1, Version=24.1.5.0 ">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Diagram.v22.2.Core, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+    <Reference Include="DevExpress.Diagram.v24.1.Core, Version=24.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
     </Reference>
-    <Reference Include="DevExpress.Dialogs.v22.2.Core, Version=22.2.3.0 ">
-      <SpecificVersion>False</SpecificVersion>
-      <Private>True</Private>
-    </Reference>
-    <Reference Include="DevExpress.Images.v22.2, Version=22.2.3.0 ">
+    <Reference Include="DevExpress.Dialogs.v24.1.Core, Version=24.1.5.0 ">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Office.v22.2.Core, Version=22.2.3.0 ">
+    <Reference Include="DevExpress.Images.v24.1, Version=24.1.5.0 ">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Pdf.v22.2.Core, Version=22.2.3.0 ">
+    <Reference Include="DevExpress.Office.v24.1.Core, Version=24.1.5.0 ">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Printing.v22.2.Core, Version=22.2.3.0 ">
+    <Reference Include="DevExpress.Pdf.v24.1.Core, Version=24.1.5.0 ">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.RichEdit.v22.2.Core, Version=22.2.3.0 ">
+    <Reference Include="DevExpress.Printing.v24.1.Core, Version=24.1.5.0 ">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Sparkline.v22.2.Core, Version=22.2.3.0 ">
+    <Reference Include="DevExpress.RichEdit.v24.1.Core, Version=24.1.5.0 ">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Data.Desktop.v22.2, Version=22.2.3.0 ">
+    <Reference Include="DevExpress.Sparkline.v24.1.Core, Version=24.1.5.0 ">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Utils.v22.2, Version=22.2.3.0 ">
+    <Reference Include="DevExpress.Data.Desktop.v24.1, Version=24.1.5.0 ">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraBars.v22.2, Version=22.2.3.0 ">
+    <Reference Include="DevExpress.Utils.v24.1, Version=24.1.5.0 ">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.Drawing.v22.2, Version=22.2.3.0 ">
+    <Reference Include="DevExpress.XtraBars.v24.1, Version=24.1.5.0 ">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraCharts.v22.2, Version=22.2.3.0 ">
+    <Reference Include="DevExpress.Drawing.v24.1, Version=24.1.5.0 ">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraCharts.v22.2.Extensions, Version=22.2.3.0 ">
+    <Reference Include="DevExpress.XtraCharts.v24.1, Version=24.1.5.0 ">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraCharts.v22.2.UI, Version=22.2.3.0 ">
+    <Reference Include="DevExpress.XtraCharts.v24.1.Extensions, Version=24.1.5.0 ">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraCharts.v22.2.Wizard, Version=22.2.3.0 ">
+    <Reference Include="DevExpress.XtraCharts.v24.1.UI, Version=24.1.5.0 ">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraDiagram.v22.2, Version=22.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-    </Reference>
-    <Reference Include="DevExpress.XtraDialogs.v22.2, Version=22.2.3.0 ">
+    <Reference Include="DevExpress.XtraCharts.v24.1.Wizard, Version=24.1.5.0 ">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraEditors.v22.2, Version=22.2.3.0 ">
+    <Reference Include="DevExpress.XtraDiagram.v24.1, Version=24.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraDialogs.v24.1, Version=24.1.5.0 ">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraGrid.v22.2, Version=22.2.3.0 ">
+    <Reference Include="DevExpress.XtraEditors.v24.1, Version=24.1.5.0 ">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraLayout.v22.2, Version=22.2.3.0 ">
+    <Reference Include="DevExpress.XtraGrid.v24.1, Version=24.1.5.0 ">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraPrinting.v22.2, Version=22.2.3.0 ">
+    <Reference Include="DevExpress.XtraLayout.v24.1, Version=24.1.5.0 ">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraTreeList.v22.2, Version=22.2.3.0 ">
+    <Reference Include="DevExpress.XtraPrinting.v24.1, Version=24.1.5.0 ">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
-    <Reference Include="DevExpress.XtraVerticalGrid.v22.2, Version=22.2.3.0 ">
+    <Reference Include="DevExpress.XtraTreeList.v24.1, Version=24.1.5.0 ">
+      <SpecificVersion>False</SpecificVersion>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="DevExpress.XtraVerticalGrid.v24.1, Version=24.1.5.0 ">
       <SpecificVersion>False</SpecificVersion>
       <Private>True</Private>
     </Reference>
